@@ -13,4 +13,4 @@ Please follow below steps:
 
 Please see "LeoMovies_Demo-ScreenRecording.pptx" containing the screen recording of the react app's working.
 
-Note: For simplicity, Services are using mock data to and simulates to data flow from services or api to this react application.
+Note: For simplicity, Services are using mock data and simulates to data flow from services or api to this react application.
